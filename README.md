@@ -27,7 +27,3 @@ I'm a passionate **JavaScript Developer** specializing in **web applications**. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacper99999&layout=compact&theme=radical)
 
----
-
-### 🔗 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/kacper-szkutnik-9a75b8308/)
